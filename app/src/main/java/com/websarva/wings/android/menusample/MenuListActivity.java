@@ -221,9 +221,9 @@ public class MenuListActivity extends AppCompatActivity {
 		menuList.add(menu);
 
 		menu = new HashMap<>();
-		menu.put("name", "焼肉定食");
-		menu.put("price", 950);
-		menu.put("desc", "特性たれの焼肉にサラダ、ご飯とお味噌汁が付きます。");
+		menu.put("name", "焼ぶた定食");
+		menu.put("price", 10000);
+		menu.put("desc", "特性たれの焼ぶたにサラダ、ご飯と豚汁が付きます。");
 		menuList.add(menu);
 
 		return menuList;
